@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">kotlin_xd</string>
+    <string name="TextView">kotlin_xd</string>
+    <string name="EJECUTAR">EJECUTAR</string>
+
+    <string name="nombre">Escribe tu nombre</string>
+    <string name="edad">Escribe tu edad</string>
+    <string name="estado">Determinar estado</string>
+
+</resources>
